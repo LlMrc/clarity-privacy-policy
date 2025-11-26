@@ -2,11 +2,11 @@
 
 *(Last updated: October 26, 2025)*
 
-Gravity leap we operates the Inner Glow mobile application (the "Service").
+Gravity leap we operates the Clarity Core mobile application (the "Service").
 
 This page informs you of our policies regarding the collection and use of information when you use our Service.
 
-**Please note that Inner Glow is designed to provide its functionalities WITHOUT directly collecting Personal Data (information that can identify you personally).**
+**Please note that Clarity Core is designed to provide its functionalities WITHOUT directly collecting Personal Data (information that can identify you personally).**
 
 However, as described below, non-personal information and device identifiers are collected by integrated third-party services for advertising operations and application analytics.
 
@@ -16,7 +16,7 @@ By using the Service, you agree to the collection and use of information in acco
 
 ## 1. Information Collection and Use
 
-**We do NOT collect any Personal Data (information that can identify you personally) directly from you.** You are not required to create an account, provide your name, email address, or any other information that could directly identify you to use Inner Glow.
+**We do NOT collect any Personal Data (information that can identify you personally) directly from you.** You are not required to create an account, provide your name, email address, or any other information that could directly identify you to use clarity core.
 
 ### Types of Data Collected (via Third-Party Services)
 
