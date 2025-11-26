@@ -142,6 +142,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: gravityleap@gmaol.com
+By email: gravityleap73@gmail.com
 
 ```http://googleusercontent.com/generated_image_content/0
