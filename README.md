@@ -1,16 +1,16 @@
-**Privacy Policy for Clarity Core**
+**Privacy Policy for NODUS Core**
 
 **(Last Updated: October 26, 2025)**
 
 **1. Introduction**
 
-Welcome to Clarity Core. Your privacy is critically important to us. Since Clarity Core is designed with privacy at its core, this Privacy Policy is straightforward.
+Welcome to NODUS Core. Your privacy is critically important to us. Since Clarity Core is designed with privacy at its core, this Privacy Policy is straightforward.
 
-Clarity Core is a mobile application that allows users to create, customize, and share quotes. We do not collect, store, or share your personal data. No registration or account creation is required to use our application.
+NODUS Core is a mobile application that allows users to create, customize, and share quotes. We do not collect, store, or share your personal data. No registration or account creation is required to use our application.
 
 **2. Information We Do NOT Collect**
 
-Clarity Core is built with a privacy-first approach. We explicitly do **NOT**:
+NODUS Core is built with a privacy-first approach. We explicitly do **NOT**:
 
 *   **Collect Personal Information:** We do not ask for, require, or collect your name, email address, phone number, or any other personally identifiable information.
 *   **Require Registration:** You can use all features of Clarity Core immediately without creating an account or providing any login credentials.
@@ -25,8 +25,7 @@ Clarity Core is built with a privacy-first approach. We explicitly do **NOT**:
 *   **Wallpaper Function:** When you use the feature to set a created quote as your device wallpaper, the operation is performed locally. We do not access your existing wallpapers or gallery.
 
 **4. Age Restrictions**
-
-Clarity Core is intended for users who are **13 years of age or older**. We do not knowingly collect information from children under 13. Since we do not collect any personal data, the risk of inadvertently collecting data from a minor is eliminated.
+NODUS Core is intended for users who are **13 years of age or older**. We do not knowingly collect information from children under 13. Since we do not collect any personal data, the risk of inadvertently collecting data from a minor is eliminated.
 
 If you are a parent or guardian and believe your child under 13 is using the app, please contact us. As we do not collect data, we cannot identify users, but we can provide information about our data-less design.
 
